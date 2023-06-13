@@ -1,1 +1,0 @@
-# coursera_html_css_assignment_2
